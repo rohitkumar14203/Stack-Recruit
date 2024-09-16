@@ -15,7 +15,7 @@ JSON Port:-8000.
 <img src="./public/2.png">
 
 #Jobs-Page
-<img src="./public/2.png">
+<img src="./public/2.5.png">
 
 <img src="./public/3.png">
 
