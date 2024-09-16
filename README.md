@@ -1,7 +1,11 @@
 ## Usage
 
-This project uses ReactJs and TailwindCss for Frontend
-This project uses JSON-Serverbackend.
+#This project uses ReactJs and TailwindCss for Frontend
+# Front-End Port-: 3000
+
+#This project uses JSON-Serverbackend.
+# JSON Port:-8000
+
 
 #Homepage
 <img src="public/1.png" />
